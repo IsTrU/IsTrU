@@ -1,7 +1,7 @@
-# 💫 About Me:
+
 Developer and AI enthusiast based in Kuwait, exploring the frontiers of agentic AI and intelligent coding tools.<br>I build with AI coding agents like Claude Code and am deeply fascinated by how AI can augment and transform the development process. Currently working on a web-based AI coding agent platform that aims to make intelligent development assistance accessible to everyone.<br>What I'm excited about:<br><br>🤖 Agentic AI systems and autonomous coding tools<br>🌐 Building AI-powered development platforms<br>🔧 Practical applications of LLMs in software engineering<br>🚀 Making advanced AI tools accessible and cost-effective<br><br>Always experimenting with new AI frameworks, exploring self-hosted solutions, and working on projects that bridge the gap between cutting-edge AI capabilities and real-world developer needs.
 
-👋 نبذة عني
+نبذة عني
 مطور ومهتم بالذكاء الاصطناعي من الكويت، أستكشف آفاق الذكاء الاصطناعي التفاعلي وأدوات البرمجة الذكية.
 أطور باستخدام وكلاء البرمجة بالذكاء الاصطناعي وأنا معجب بكيفية تعزيز الذكاء الاصطناعي وتحويل عملية التطوير. حالياً أعمل على منصة وكيل برمجة ذكي على الويب تهدف إلى جعل المساعدة الذكية في التطوير متاحة للجميع.
 ما يثير اهتمامي:
